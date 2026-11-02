@@ -10,6 +10,6 @@ public class forloop_new_syntax {
 			else
 			   System.out.print(y + " ");
 		}
-    }
+    }//output: 1 3 5 7
     
 }
